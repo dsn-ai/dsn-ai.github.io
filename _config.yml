@@ -16,13 +16,13 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Distributed Systems and Networking Research Group @ University of York"
+title                    : "DSN-AI Research"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "DSN-AI Research"
 description              : "Distributed Systems and Networking Research Group @ University of York lead by Dr Poonam Yadav (Computer Science Department)"
 url                      : "https://dsn-ai.github.io/"
-baseurl                  : "/blog"
+baseurl                  : "/"
 repository               : "dsn-ai/dsn-ai"
 teaser                   : "/assets/images/500x300.png"
 logo                     : "/assets/images/88x88.png"
